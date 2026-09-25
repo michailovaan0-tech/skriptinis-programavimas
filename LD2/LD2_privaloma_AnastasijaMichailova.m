@@ -30,6 +30,3 @@ size(s);
 size(s1);
 max(s2);
 min(s2);
-
-
-
